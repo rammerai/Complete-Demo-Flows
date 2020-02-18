@@ -1,4 +1,4 @@
-# Complete Rammer Demo Flows
+# Twilio Flex and Salesforce Flow
 
 Use this Github repository as a reference guide to building custom applications using Rammer APIs. In this repo you'll find sample integrations that are complete, end to end, that you can use to extend your own applications.
 
