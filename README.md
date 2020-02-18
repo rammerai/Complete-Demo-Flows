@@ -1,4 +1,4 @@
-# Complete Rammer Sample Flows
+# Complete Rammer Demo Flows
 
 Use this Github repository as a reference guide to building custom applications using Rammer APIs. In this repo you'll find sample integrations that are complete, end to end, that you can use to extend your own applications.
 
